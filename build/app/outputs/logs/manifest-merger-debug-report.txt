@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:1:1-52:12
+MERGED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:1:1-52:12
+MERGED from [:flutter_mobile_vision] C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\build\flutter_mobile_vision\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:20.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\3f2133b498f36ea08d767cbb05631a06\play-services-vision-20.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.2] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\58e1da1475d41ec17533774788abee78\play-services-vision-common-19.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\2addc0ee551877f95c44d325221e3ead\play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\baeb275dd6fbbdfb1d56bb2ca75650ed\play-services-flags-17.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\0728163edc18a6c84376b8f88e2191c1\play-services-phenotype-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\10631bb3012ccad9c5c9285264903a3d\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\10dad9625700204288772f7d0cfe691a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\0986d0d74b8a2c7da8161f6370fc7744\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\615cab8ad6393a9c868d48761bbea666\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\23edc849475fdda61367cb003f9b9f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\79f9d65ef8b1c716310f666473a689a7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\077300052aa327ee6fc9bbb0ce309b24\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\b80fad55c42c418cc210e235056767fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:1:1-52:12
+		INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:1:1-52:12
+		INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:8:5-60
+MERGED from [:flutter_mobile_vision] C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\build\flutter_mobile_vision\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-60
+MERGED from [:flutter_mobile_vision] C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\build\flutter_mobile_vision\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-60
+	android:name
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:8:19-57
+uses-permission#android.permission.INTERNET
+ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:11:5-65
+MERGED from [:flutter_mobile_vision] C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\build\flutter_mobile_vision\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-65
+MERGED from [:flutter_mobile_vision] C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\build\flutter_mobile_vision\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:11:22-62
+application
+ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:12:5-51:19
+MERGED from [com.google.android.gms:play-services-vision:20.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\3f2133b498f36ea08d767cbb05631a06\play-services-vision-20.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\3f2133b498f36ea08d767cbb05631a06\play-services-vision-20.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.2] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\58e1da1475d41ec17533774788abee78\play-services-vision-common-19.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.2] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\58e1da1475d41ec17533774788abee78\play-services-vision-common-19.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\2addc0ee551877f95c44d325221e3ead\play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\2addc0ee551877f95c44d325221e3ead\play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\0728163edc18a6c84376b8f88e2191c1\play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\0728163edc18a6c84376b8f88e2191c1\play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\10631bb3012ccad9c5c9285264903a3d\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\10631bb3012ccad9c5c9285264903a3d\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\10dad9625700204288772f7d0cfe691a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\10dad9625700204288772f7d0cfe691a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:14:9-36
+	android:icon
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:15:9-43
+	android:name
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:13:9-57
+activity#com.example.flutter_ocr.MainActivity
+ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:16:9-44:20
+	android:launchMode
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:18:13-43
+	android:hardwareAccelerated
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:21:13-47
+	android:windowSoftInputMode
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:22:13-55
+	android:configChanges
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:20:13-163
+	android:theme
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:19:13-47
+	android:name
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:17:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:27:13-30:17
+	android:resource
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:29:15-52
+	android:name
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:28:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:36:13-39:17
+	android:resource
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:38:15-61
+	android:name
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:37:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:40:13-43:29
+action#android.intent.action.MAIN
+ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:41:17-68
+	android:name
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:42:27-74
+activity#io.github.edufolly.fluttermobilevision.ocr.OcrCaptureActivity
+ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:45:9-98
+	android:name
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:45:19-95
+meta-data#flutterEmbedding
+ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:48:9-50:33
+	android:value
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:50:13-30
+	android:name
+		ADDED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml:49:13-44
+uses-sdk
+INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml
+MERGED from [:flutter_mobile_vision] C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\build\flutter_mobile_vision\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_mobile_vision] C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\build\flutter_mobile_vision\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\3f2133b498f36ea08d767cbb05631a06\play-services-vision-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\3f2133b498f36ea08d767cbb05631a06\play-services-vision-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.2] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\58e1da1475d41ec17533774788abee78\play-services-vision-common-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.2] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\58e1da1475d41ec17533774788abee78\play-services-vision-common-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\2addc0ee551877f95c44d325221e3ead\play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\2addc0ee551877f95c44d325221e3ead\play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\baeb275dd6fbbdfb1d56bb2ca75650ed\play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\baeb275dd6fbbdfb1d56bb2ca75650ed\play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\0728163edc18a6c84376b8f88e2191c1\play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\0728163edc18a6c84376b8f88e2191c1\play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\10631bb3012ccad9c5c9285264903a3d\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\10631bb3012ccad9c5c9285264903a3d\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\10dad9625700204288772f7d0cfe691a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\10dad9625700204288772f7d0cfe691a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\0986d0d74b8a2c7da8161f6370fc7744\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\0986d0d74b8a2c7da8161f6370fc7744\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\615cab8ad6393a9c868d48761bbea666\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\615cab8ad6393a9c868d48761bbea666\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\28d99d5113324aa067757f8ca41a426f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\e1bbce6b0d79e8479b70e7bd729bb743\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\ef0bef029ab70f5fb29de019060cf5fd\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\49ede1f7b9aa322a43288e9745adc2db\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\54d8b8735f730e83f07925f758092af3\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\23edc849475fdda61367cb003f9b9f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\23edc849475fdda61367cb003f9b9f93\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\79f9d65ef8b1c716310f666473a689a7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\79f9d65ef8b1c716310f666473a689a7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\077300052aa327ee6fc9bbb0ce309b24\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\077300052aa327ee6fc9bbb0ce309b24\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\3a7eb299570065a3866b140e1a95969b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\b80fad55c42c418cc210e235056767fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\b80fad55c42c418cc210e235056767fb\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\flutter_ocr_demo-master\flutter_ocr_demo-master\android\app\src\debug\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\10dad9625700204288772f7d0cfe691a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\10dad9625700204288772f7d0cfe691a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ravindu\.gradle\caches\transforms-2\files-2.1\10dad9625700204288772f7d0cfe691a\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

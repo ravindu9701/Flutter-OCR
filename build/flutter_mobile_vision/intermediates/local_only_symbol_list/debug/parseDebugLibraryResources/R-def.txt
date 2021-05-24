@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+id graphic_overlay
+id preview
+id topLayout
+layout capture
